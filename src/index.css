@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@300;400;700&display=swap");
+
+* {
+  font-family: "Sora", sans-serif;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-gap-xs {
+  gap: 4px;
+}
+
+.flex-gap-s {
+  gap: 8px;
+}
+
+.flex-gap-m {
+  gap: 16px;
+}
+
+.flex-gap-l {
+  gap: 32px;
+}
+
+.flex-gap-xl {
+  gap: 64px;
+}

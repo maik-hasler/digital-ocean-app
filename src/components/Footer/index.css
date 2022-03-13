@@ -1,0 +1,14 @@
+footer {
+  width: 100vw;
+  background-color: #000000;
+  padding: 64px 10vw;
+  color: #ffffff;
+}
+
+footer ul {
+  list-style-type: none;
+}
+
+footer div#thanksgiving {
+  width: 50vw;
+}
