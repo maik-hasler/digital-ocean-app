@@ -28,10 +28,11 @@ function Footer() {
                         <li>Sample item</li>
                     </ul>
                     <ul>
-                        <li>Heading</li>
-                        <li>Sample item</li>
-                        <li>Sample item</li>
-                        <li>Sample item</li>
+                        <li>Legal</li>
+                        <li>Terms of service</li>
+                        <li>Fair use policy</li>
+                        <li>Privacy policy</li>
+                        <li>Guidelines</li>
                     </ul>
                 </div>
             </div>

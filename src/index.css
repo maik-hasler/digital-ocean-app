@@ -36,3 +36,40 @@
 .flex-gap-xl {
   gap: 64px;
 }
+
+/* HEADER STYLE */
+nav {
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10vw;
+}
+
+.rcb9g {
+  height: 40px;
+  padding: 0 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+}
+
+.bjae7 {
+  height: 40px;
+  padding: 0 20px;
+  background-color: #000000;
+  border-radius: 6px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.izn2r {
+  display: flex;
+  align-items: center;
+}
